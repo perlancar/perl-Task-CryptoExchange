@@ -8,6 +8,6 @@ package Task::CryptoExchange::API;
 
 =pkggroup Included modules
 
-#CODE: for (`acme-cpanlists ls-entries "Modules that interface to cryptocurrency exchanges"`) { print "=pkg $_\n" }
+#CODE: for (`cpanmodules ls-entries CryptoExchange::API`) { print "=pkg $_\n" }
 
 =cut
