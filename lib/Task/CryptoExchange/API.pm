@@ -1,4 +1,4 @@
-package Task::CryptoExchange;
+package Task::CryptoExchange::API;
 
 # DATE
 # VERSION
